@@ -1,5 +1,5 @@
-
-## Backend Challenge TCIT
+# Challenge TCIT
+## Backend
 
 Install dependecies with: npm install
 
@@ -9,7 +9,7 @@ To connecto to PostgreSQL, put your credentianls in the file .env.
 
 The server will be running in: http://localhost:3001
 
-## Frontend Challenge
+## Frontend
 
 Install dependecies with: npm install
 
